@@ -1,0 +1,299 @@
+canonical_identifier: bkk:krp/KR3eh051/v1
+canonical_location: https://kanripo.org/bkk/KR3eh051/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 內傷集要
+  identifiers:
+    krp: KR3eh051
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh051.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh051_000.yaml, hash: 'sha256:d19889b720c9752649aeff0a28de833f54e4802e426c5b4ca72a657495d756f2'}
+  - {seq: 1, filename: KR3eh051_001.yaml, hash: 'sha256:c67607d819b31a26c2349d6d8b3e1b3f12b0246e4e3dbd3f3bae2a61e4790654'}
+  - {seq: 2, filename: KR3eh051_002.yaml, hash: 'sha256:899173b4505a61523416425190d3625465a6531ce2a2b1e3dd52c7b32cc9cd3d'}
+  - {seq: 3, filename: KR3eh051_003.yaml, hash: 'sha256:7b94cead3ab9b78ccbbd67221dc25ba89e996e2dda7b60664ede2c9579a8d56c'}
+  - {seq: 4, filename: KR3eh051_004.yaml, hash: 'sha256:5506892d7eaa702d5c14a358f221c2d6389eeafda54d5cab6668303b195e24d1'}
+  - {seq: 5, filename: KR3eh051_005.yaml, hash: 'sha256:b10802cbd36564448168747ba1b271519b344225d320a07352831131aca7a13f'}
+  - {seq: 6, filename: KR3eh051_006.yaml, hash: 'sha256:dfba99670e63a7feadbe29eb6a5e59778d4712df60e23a417c96e4be02d855f0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh051_000.markers.yaml, hash: 'sha256:63c77ba13a279dc9db4dec5dc21aecf0f4322a5a0275949e9755fb8ece59ef49'}
+  - {seq: 1, role: markers, filename: assets/KR3eh051_001.markers.yaml, hash: 'sha256:e8ce7a53840d15bc8f291a742a7a0c2517469131f0da500719181946fa31b102'}
+  - {seq: 2, role: markers, filename: assets/KR3eh051_002.markers.yaml, hash: 'sha256:efea5ecbda3b516f58ad12f3d15c2f775bb0bfd1d3eac46d383bc8bef19c4504'}
+  - {seq: 3, role: markers, filename: assets/KR3eh051_003.markers.yaml, hash: 'sha256:ac154f19ecfef6edbd3814edd3df830d5d57c302226a6301361efa935a390572'}
+  - {seq: 4, role: markers, filename: assets/KR3eh051_004.markers.yaml, hash: 'sha256:af314719b5138f4769f9075b1e9f773b3aaf48e5ffbba064e5625c20ddfba807'}
+  - {seq: 5, role: markers, filename: assets/KR3eh051_005.markers.yaml, hash: 'sha256:20d0e651df29fa0ab4efe74f7be84fe8a032f93f6377b5fda61f054602906c86'}
+  - {seq: 6, role: markers, filename: assets/KR3eh051_006.markers.yaml, hash: 'sha256:44c64cfd8f8894dd6203e504ea64bd2b50b81c1ad23d7bf4f6a6d60b7be25766'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh051_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 492
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh051_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 195
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh051_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6834
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh051_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 1233
+  label: 內傷虛損經旨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh051_jc_001-d4d3
+    span:
+    - body
+    - 1233
+    - 2979
+  label: 內傷虛損脈法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh051_jc_001-d4d4
+    span:
+    - body
+    - 2979
+    - 6345
+  label: 內傷虛損病源
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh051_jc_001-d4d5
+    span:
+    - body
+    - 6345
+    - 6834
+  label: 飲食傷病源
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eh051_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 7046
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eh051_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 7046
+  label: 內傷虛損證治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh051_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 13390
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh051_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 10054
+  label: 內傷虛損證治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh051_jc_003-d6d3
+    span:
+    - body
+    - 10054
+    - 13390
+  label: 內傷傳屍勞瘵證治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eh051_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 15337
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eh051_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 1135
+  label: 內傷虛損失血經旨
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eh051_jc_004-d7d3
+    span:
+    - body
+    - 1135
+    - 1586
+  label: 內傷虛損失血脈法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eh051_jc_004-d7d4
+    span:
+    - body
+    - 1586
+    - 14307
+  label: 內傷虛損失血症治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eh051_jc_004-d7d5
+    span:
+    - body
+    - 14307
+    - 14627
+  label: 內傷虛損宜耐醫說
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eh051_jc_004-d7d6
+    span:
+    - body
+    - 14627
+    - 15337
+  label: 內傷虛損宜重保養說
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eh051_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 7750
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eh051_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 7750
+  label: 內傷虛損方法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eh051_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 10688
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eh051_jc_006-d9d2
+    span:
+    - body
+    - 2
+    - 3110
+  label: 內傷虛損方法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eh051_jc_006-d9d3
+    span:
+    - body
+    - 3110
+    - 5644
+  label: 內傷失血方法
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eh051_jc_006-d9d4
+    span:
+    - body
+    - 5644
+    - 9682
+  label: 內傷備用選方
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eh051_jc_006-d9d5
+    span:
+    - body
+    - 9682
+    - 9896
+  label: 附素問濁氣歸心辨訛
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eh051_jc_006-d9d6
+    span:
+    - body
+    - 9896
+    - 10688
+  label: 附考正古方權量說
+  type: section
+  level: 2
+hash: sha256:8c67675b4ba8e9e1201e23208793920bbf7cdb35ad563e54bdca8b3c726e36af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
