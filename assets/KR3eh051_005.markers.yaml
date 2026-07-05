@@ -1815,7 +1815,6 @@ markers:
   - {type: 'tls:seg', offset: 3408, content: '', id: KR3eh051_jc_005-d8.d2.p154s6}
   - {type: punctuation, offset: 3413, content: ，, id: KR3eh051_jc_005-bkkpn805}
   - {type: 'tls:seg', offset: 3413, content: '', id: KR3eh051_jc_005-d8.d2.p154s7}
-  - {type: substitution, offset: 3419, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 3420, content: 。, id: KR3eh051_jc_005-bkkpn806}
   - {type: xml-element, offset: 3420, content: '', id: KR3eh051_jc_005-d8.d2p154_end, name: p, role: close, attrs: {'xml:id': KR3eh051_jc_005-d8.d2p154}}
   - {type: xml-element, offset: 3420, content: '', id: KR3eh051_jc_005-d8.d2p156, name: p, role: open, attrs: {'xml:id': KR3eh051_jc_005-d8.d2p156}}
@@ -3863,7 +3862,6 @@ markers:
   - {type: 'tls:seg', offset: 6783, content: '', id: KR3eh051_jc_005-d8.d2.p376s20}
   - {type: punctuation, offset: 6787, content: ，, id: KR3eh051_jc_005-bkkpn1634}
   - {type: 'tls:seg', offset: 6787, content: '', id: KR3eh051_jc_005-d8.d2.p376s21}
-  - {type: substitution, offset: 6789, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 6791, content: ，, id: KR3eh051_jc_005-bkkpn1635}
   - {type: 'tls:seg', offset: 6791, content: '', id: KR3eh051_jc_005-d8.d2.p376s22}
   - {type: punctuation, offset: 6800, content: ；, id: KR3eh051_jc_005-bkkpn1636}
@@ -4371,4 +4369,4 @@ markers:
   - {type: punctuation, offset: 7750, content: 。, id: KR3eh051_jc_005-bkkpn1856}
   - {type: xml-element, offset: 7750, content: '', id: KR3eh051_jc_005-d8.d2p418_end, name: p, role: close, attrs: {'xml:id': KR3eh051_jc_005-d8.d2p418}}
   back: []
-hash: sha256:20d0e651df29fa0ab4efe74f7be84fe8a032f93f6377b5fda61f054602906c86
+hash: sha256:9ab07f9cfea1464f7508a03dab17f0d347b75e589850803c93b684d89ab75b11
