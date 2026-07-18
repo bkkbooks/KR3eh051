@@ -30,8 +30,8 @@ assets:
   - {seq: 2, role: markers, filename: assets/KR3eh051_002-jc.markers.yaml, hash: 'sha256:50c771468f7c523c93e81fca0ff6ad9d2a5d6c11a2c669d51b96c98a5f7e88f4'}
   - {seq: 3, role: markers, filename: assets/KR3eh051_003-jc.markers.yaml, hash: 'sha256:071d4c27ab760e107bd3d657eb8b02b55b10e1dc7c7c54fb4573f3393246fadb'}
   - {seq: 4, role: markers, filename: assets/KR3eh051_004-jc.markers.yaml, hash: 'sha256:8e1a61ae1fe0e5c6eb205936095cb983d1e278ebf38e3ea6f0ba4359a042809a'}
-  - {seq: 5, role: markers, filename: assets/KR3eh051_005-jc.markers.yaml, hash: 'sha256:50c8187bdfec3b35adbe7f4756aa9220ee162679f95024889223ad3431c2f535'}
-  - {seq: 6, role: markers, filename: assets/KR3eh051_006-jc.markers.yaml, hash: 'sha256:8ce6dfc8b971f375cf3507cf9d29a59cb59feb8e122a701354bfe7fc7d2e0edc'}
+  - {seq: 5, role: markers, filename: assets/KR3eh051_005-jc.markers.yaml, hash: 'sha256:2a419b408b070a44445b2fdb9737cfaa2fc7ad12a143911ae234e0f7de9edc85'}
+  - {seq: 6, role: markers, filename: assets/KR3eh051_006-jc.markers.yaml, hash: 'sha256:4b5fd0d9fe5d2fe9e89fac3abaaf5d17241b86d962b7761affc5a1b0297dd57c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -293,4 +293,4 @@ table_of_contents:
   label: 附考正古方權量說
   type: section
   level: 2
-hash: sha256:2f17e821d83578a85699ea3ea41cc961386394022a0ddc840133fe3a3b56eef3
+hash: sha256:b0f2e2dc49a6080ec40bdf8fd6a8a95415c2b3d839a2f0b536adb4b422af2828

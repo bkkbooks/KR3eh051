@@ -30,8 +30,8 @@ assets:
   - {seq: 2, role: markers, filename: assets/KR3eh051_002.markers.yaml, hash: 'sha256:27f93836be66b4c97313fde153c446e87534f4e1c2c17becc723776e809a225d'}
   - {seq: 3, role: markers, filename: assets/KR3eh051_003.markers.yaml, hash: 'sha256:04a35574b7a53a900a8b9f528fabe5d16cad04d8ee659af9f6891c33808081f1'}
   - {seq: 4, role: markers, filename: assets/KR3eh051_004.markers.yaml, hash: 'sha256:955fd7f14a46717fcca478d3388b30a80bab0a457b34cf15ee231578f5065271'}
-  - {seq: 5, role: markers, filename: assets/KR3eh051_005.markers.yaml, hash: 'sha256:7137eeaf18da812182baddbdf7c02654efa9b5825c555b5c0e4f3139a4941563'}
-  - {seq: 6, role: markers, filename: assets/KR3eh051_006.markers.yaml, hash: 'sha256:9cd8ac6b53178ddf9df3cfbfc453ffe2ea61aee5899d26d7068bd8739bd68cb4'}
+  - {seq: 5, role: markers, filename: assets/KR3eh051_005.markers.yaml, hash: 'sha256:2c17eb2001b8653954ce10e0953f7ad6b0d5a15b46cb89b8e5600f4536723f01'}
+  - {seq: 6, role: markers, filename: assets/KR3eh051_006.markers.yaml, hash: 'sha256:ec5848a04764ba322f9d5bd91b1332eca26168be23b160d6609fba14bf082b6b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -293,7 +293,7 @@ table_of_contents:
   label: 附考正古方權量說
   type: section
   level: 2
-hash: sha256:53521fd8d65ccfdc6c33686dfaac671af4b19ae6d8534fe9c7a6a7574b7045f2
+hash: sha256:6981e97fdaec76c5892a79804b8556c747cc52c39b2f41dba3ee2ac5d70596d9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
