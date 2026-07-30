@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eh051_000-jc.yaml, hash: 'sha256:0765b64b2103a06e3aa9998964207fef50f2a33db3a35482e89418447f357173'}
+  - {seq: 0, filename: KR3eh051_000-jc.yaml, hash: 'sha256:ff46eeced4ce46349538cfb5fc880c16a27c4a25cf0134baa4492b161fedff55'}
   - {seq: 1, filename: KR3eh051_001-jc.yaml, hash: 'sha256:5c088546e0eed3cf478d41c730ce5b15f55898fb46bed422628be0669dffab06'}
   - {seq: 2, filename: KR3eh051_002-jc.yaml, hash: 'sha256:3db1510608efd46b744b96e6210e4c373918eed48f023fc06de637d754251763'}
   - {seq: 3, filename: KR3eh051_003-jc.yaml, hash: 'sha256:f101c2231254f9706ca3eb96375f175b55ffa5ad10a44941b0e02de2cec4ce02'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3eh051_005-jc.yaml, hash: 'sha256:1586601c5aaf0186c66390e9e2262c721296a0828b0580d65233d475ee35c56a'}
   - {seq: 6, filename: KR3eh051_006-jc.yaml, hash: 'sha256:acb409fe347196eb542e2f498301d3cfcfbc1a79ea5ef128ca867f654994f893'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh051_000-jc.markers.yaml, hash: 'sha256:66d0366de8fa449d7d383dff924834af7b027c7e7f6b8723321bfe0aa4ba8fd0'}
+  - {seq: 0, role: markers, filename: assets/KR3eh051_000-jc.markers.yaml, hash: 'sha256:0ce68f992a0b4da5f939c4d86fbce1ef2e4b1e7e268dde29fcdee7d3df18771c'}
   - {seq: 1, role: markers, filename: assets/KR3eh051_001-jc.markers.yaml, hash: 'sha256:e95b21699c18fc38651e2af3d78252d66e48b3afe13eeb0cdad1311c44df418f'}
   - {seq: 2, role: markers, filename: assets/KR3eh051_002-jc.markers.yaml, hash: 'sha256:50c771468f7c523c93e81fca0ff6ad9d2a5d6c11a2c669d51b96c98a5f7e88f4'}
   - {seq: 3, role: markers, filename: assets/KR3eh051_003-jc.markers.yaml, hash: 'sha256:071d4c27ab760e107bd3d657eb8b02b55b10e1dc7c7c54fb4573f3393246fadb'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh051_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 492
   label: 自序
@@ -48,8 +48,8 @@ table_of_contents:
     marker_id: KR3eh051_jc_000-d3.h1s1
     span:
     - body
-    - 0
-    - 195
+    - 492
+    - 687
   label: 凡例
   type: section
   level: 1
@@ -293,4 +293,4 @@ table_of_contents:
   label: 附考正古方權量說
   type: section
   level: 2
-hash: sha256:b0f2e2dc49a6080ec40bdf8fd6a8a95415c2b3d839a2f0b536adb4b422af2828
+hash: sha256:c3712ae7067ccc5f24d4efa5bb94eed37572cf03d773eee5c983870da115c606

@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh051_000.yaml, hash: 'sha256:3466420e4fed57fa02dd6fc2547d212e23f3bdc6fb5edd4ab1553f1fedb4eb4f'}
+  - {seq: 0, filename: KR3eh051_000.yaml, hash: 'sha256:0f156fe9cd52ec56bacc768edcecd3cabb0df448303dd240af555861b65df9d0'}
   - {seq: 1, filename: KR3eh051_001.yaml, hash: 'sha256:5744aa51b20a4e4fc2507585fe9b543a2d9fafdd0613151d243ce6bb0759ed3a'}
   - {seq: 2, filename: KR3eh051_002.yaml, hash: 'sha256:4a5787bea9e669ec27034199fd02adc9ff3e5eb54cc1051a94a5a1277be15249'}
   - {seq: 3, filename: KR3eh051_003.yaml, hash: 'sha256:6cb2a63001bb76c45c3952ce318935f468e0ad187209f6a2b93688f2e38631e4'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3eh051_005.yaml, hash: 'sha256:f63a1acf343dc37657865dbed4604691b510e04ac8b2bc4da1c59255b3224f65'}
   - {seq: 6, filename: KR3eh051_006.yaml, hash: 'sha256:a0cde8d49ff814207f94a5cf92e146ee479e0dfd92339c7da25c789c366fb73b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh051_000.markers.yaml, hash: 'sha256:9993e7ea0e4e34f074a056f3ea1d7de04726c9edad1dd18050c6544a272dea1a'}
+  - {seq: 0, role: markers, filename: assets/KR3eh051_000.markers.yaml, hash: 'sha256:61cfb5b146d1f995432df03941310e6c49263edd2b3857116a998c907433611e'}
   - {seq: 1, role: markers, filename: assets/KR3eh051_001.markers.yaml, hash: 'sha256:f99ab6c48fcb5bf65d30a62b993d4f6cadb42aa17bfef7d865033a298e4af3be'}
   - {seq: 2, role: markers, filename: assets/KR3eh051_002.markers.yaml, hash: 'sha256:27f93836be66b4c97313fde153c446e87534f4e1c2c17becc723776e809a225d'}
   - {seq: 3, role: markers, filename: assets/KR3eh051_003.markers.yaml, hash: 'sha256:04a35574b7a53a900a8b9f528fabe5d16cad04d8ee659af9f6891c33808081f1'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh051_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 492
   label: 自序
@@ -48,8 +48,8 @@ table_of_contents:
     marker_id: KR3eh051_jc_000-d3.h1s1
     span:
     - body
-    - 0
-    - 195
+    - 492
+    - 687
   label: 凡例
   type: section
   level: 1
@@ -293,7 +293,7 @@ table_of_contents:
   label: 附考正古方權量說
   type: section
   level: 2
-hash: sha256:6981e97fdaec76c5892a79804b8556c747cc52c39b2f41dba3ee2ac5d70596d9
+hash: sha256:4bac1864fc5fd5ae4cefc289f264a98028a172c5834717d07c37757f3588239c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
